@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Ultimate Ingestible Schema Language (UISL): Deterministic Schema Governance with Canonical Validation, Cryptographic Authority, and Immutable Continuity"
+authors:
+  - family-names: "LaFountaine"
+    given-names: "Denny Michael"
+doi: "10.5281/zenodo.18635476"
+url: "https://zenodo.org/records/18635476"
+repository-code: "https://github.com/<REPLACE_WITH_YOUR_REPO>"
+abstract: >
+  UISL (Ultimate Ingestible Schema Language) is a deterministic schema-governance system for
+  reproducible, audit-defensible AI and infrastructure outputs. This release documents canonical
+  validation gates, immutable continuity controls, and cryptographic authority constraints, with
+  published artifacts and test evidence referenced via Zenodo.
+keywords:
+  - "UISL"
+  - "Ingestible Schema Language"
+  - "deterministic validation"
+  - "canonical bytes"
+  - "immutability"
+  - "append-only"
+  - "audit-defensible"
+  - "cryptographic governance"
+  - "ED25519"
+  - "SHA-256"
+  - "chain integrity"
+  - "regression testing"
+license: "LicenseRef-Proprietary"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18635476"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.18635476"
